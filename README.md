@@ -3,7 +3,6 @@
 ![I am Flutter dev](https://i.pinimg.com/564x/f4/50/50/f45050c84eecaee6b800518d5db19f24.jpg)
 
 A passionate Mobile developer from Kyrgyzstan 🇰🇬
-
 <img src="" align="left" style="width: 100%" />  
   
 
@@ -26,11 +25,11 @@ A passionate Mobile developer from Kyrgyzstan 🇰🇬
 
 ### Frontend  
 <div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -44,6 +43,11 @@ A passionate Mobile developer from Kyrgyzstan 🇰🇬
 
 </td><td valign="top" width="33%">
 
+
+
+</td></tr></table>  
+
+<br/>  
 
 
 ## Connect with me  
@@ -88,6 +92,3 @@ A passionate Mobile developer from Kyrgyzstan 🇰🇬
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
