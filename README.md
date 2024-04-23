@@ -1,14 +1,22 @@
-<h1 align="center">Hi 👋, I'm Muhammadaziz</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+### Hi there 👋, My name is Muhammadaziz
+#### I am Flutter dev
+![I am Flutter dev](https://i.pinimg.com/564x/f4/50/50/f45050c84eecaee6b800518d5db19f24.jpg)
 
-<p align="left"> <a href="https://github.com/KadirovKmck/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KadirovKmck" alt="KadirovKmck" /></a> </p>
+A passionate Mobile developer from Kyrgyzstan 🇰🇬
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Skills: VUE JS / REACT / JS / HTML / CSS / dart
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+- 🔭 I’m currently working on this page.ytgyuhiu 
+- 🌱 I’m currently learning vgkbh yhujon  
+- 👯 I’m looking to collaborate on hlijoi 
+- 🤔 I’m looking for help with uhilhb bugkhb  
+- 💬 Ask me about gyibuhlij 
+- 📫 How to reach me: ghlbuk mvb 
+- 😄 Pronouns: uhijoi 
+- ⚡ Fun fact: uhuibh b 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/KadirovKmck"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="KadirovKmck" /></a><a href="https://ko-fi.com/KadirovKmck"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="KadirovKmck" /></a></p><br><br>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KadirovKmck)  
+
+
+
