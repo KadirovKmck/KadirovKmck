@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ====================================================================================================================================
 
 
-### <div align="center">I'm Kadirov Muhammadaziz, a flutter  developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="start">I'm Kadirov Muhammadaziz, a flutter  developer 👨‍💻 working remotely since 2023 🚀</div>  
 -------------
 
 * 🌍  I'm based in Kyrgyzstan
