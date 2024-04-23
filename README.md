@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammadaziz
 ====================================================================================================================================
 
-I am Flutter Devoloper and I love coding 
+
+### <div align="center">I'm Kadirov Muhammadaziz, a flutter  developer 👨‍💻 working remotely since 2023 🚀</div>  
 -------------
 
 * 🌍  I'm based in Kyrgyzstan
@@ -24,6 +25,7 @@ I am Flutter Devoloper and I love coding
 
 <a href="http://www.github.com/KadirovKmck"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirovKmck&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/KadirovKmck"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirovKmck&hide_border=true&layout=compact" align="left" />  
 
 
 
@@ -31,4 +33,6 @@ I am Flutter Devoloper and I love coding
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/KadirovKmck" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kmck_7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+
+
 
