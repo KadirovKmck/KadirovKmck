@@ -1,8 +1,3 @@
-### Hi there 👋, My name is Muhammadaziz
-#### I am Flutter dev
-![I am Flutter dev](https://i.pinimg.com/564x/f4/50/50/f45050c84eecaee6b800518d5db19f24.jpg)
-
-A passionate Mobile developer from Kyrgyzstan 🇰🇬
 <img src="" align="left" style="width: 100%" />  
   
 
@@ -51,7 +46,6 @@ A passionate Mobile developer from Kyrgyzstan 🇰🇬
 
 
 ## Connect with me  
-<div align="center">
 <a href="https://github.com/KadirovKmck" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -61,7 +55,6 @@ A passionate Mobile developer from Kyrgyzstan 🇰🇬
 <a href="https://stackoverflow.com/users/user:23141294" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
   
 
 <br/>  
