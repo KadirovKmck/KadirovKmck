@@ -32,11 +32,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/KadirovKmck" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kmck_7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture>    <a href="https://www.github.com/KadirovKmck" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/KadirovKmck?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirovkmck&label=Profile%20views&color=0e75b6&style=flat" alt="kadirovkmck" /> </p>
+<p align="left"> <a href="https://www.github.com/KadirovKmck" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kmck_7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture>   
 
 
    </a></p>
-
+<p align="left"> <a href="https://www.github.com/KadirovKmck" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/KadirovKmck?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a></p>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadirovkmck&label=Profile%20views&color=0e75b6&style=flat" alt="kadirovkmck" /> </p>
