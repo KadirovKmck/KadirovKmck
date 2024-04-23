@@ -1,14 +1,9 @@
-<img src="" align="left" style="width: 100%" />  
-  
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammadaziz
+====================================================================================================================================
 
-### <div align="center">I'm KadirovKmck, a flutter  developer 👨‍💻 working remotely since 2023 🚀</div>  
-  
+* 🌍  I'm based in Kyrgyzstan
+* ✉️  You can contact me at [kadirovmuhammadaziz79@gmail.com](mailto:kadirovmuhammadaziz79@gmail.com)
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
