@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kadirov
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kadirov Muhammadaziz
 ====================================================================================================================================
 
 
-### <div align="start">I'm Kadirov , a flutter  developer 👨‍💻 working remotely since 2023 🚀</div>  
+### <div align="start">I'm  Muhammadaziz Kadirov , a flutter  developer 👨‍💻 working remotely since 2023 🚀</div>  
 -------------
 
 * 🌍  I'm based in Kyrgyzstan
