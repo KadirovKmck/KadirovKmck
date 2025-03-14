@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KadirovKmck&show_icons=true&theme=blueberry" alt="GitHub Stats" />
   
-  <img src="https://streak-stats.demolab.com/?user=KadirovKmck&theme=blueberry" alt="GitHub Streak"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirovKmck&langs_count=5&theme=blueberry&layout=compact" alt="Top Languages"/>
 </p>
