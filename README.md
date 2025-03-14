@@ -28,7 +28,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KadirovKmck&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KadirovKmck&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.vercel.app/?user=KadirovKmck&theme=radical" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirovKmck&langs_count=5&theme=radical&layout=compact" alt="Top Languages"/>
 </p>
 
@@ -60,3 +60,4 @@
 ---
 
 > 🚀 Always Learning. Always Building. Always Improving! 🏆
+
