@@ -38,6 +38,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KadirovKmck&langs_count=5&theme=blueberry&layout=compact" alt="Top Languages"/>
 </p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bekturgan Zulpukarov&show_icons=true&theme=blueberry" alt="GitHub Stats" />
+  
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bekturgan Zulpukarov&langs_count=5&theme=blueberry&layout=compact" alt="Top Languages"/>
+</p>
+
 ---
 
 ## 🚀 GitHub Achievements
