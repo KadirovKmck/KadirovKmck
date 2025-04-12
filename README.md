@@ -39,12 +39,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asadaravani&show_icons=true&theme=blueberry" alt="GitHub Stats" />
-  
-
-</p>
-
 ---
 
 ## 🚀 GitHub Achievements
